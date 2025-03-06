@@ -1,0 +1,31 @@
+---
+title: "Metadata Documentation"
+author: "Areeb Khan"
+format: html
+editor: visual
+---
+
+## Dataset Summary
+
+-   **Created By:** Mika, Kath
+-   **Published:** 07/19/2024
+-   **Title:** Annual Trade Report and Returns - 1928 (Harbin District)
+-   **Persistent Identifier:** <https://dataverse.harvard.edu/file.xhtml?fileId=10376998&version=1.0>
+
+## Metadata Files
+
+### 1. `access.csv`
+
+![Screen Shot of access.csv file](images/ss4.PNG)
+
+### 2. `biblio.csv`
+
+![Screen Shot of biblio.csv file](images/ss3.PNG)
+
+### 3. `attributes.csv`
+
+![Screen Shot of attribute.csv file](images/ss1.PNG)
+
+### 3. `Creators.csv`
+
+![Screen Shot of creators.csv file](images/ss2-01.PNG)
